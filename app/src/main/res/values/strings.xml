@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SegApplication</string>
+    <string name="tab_text_1">天气</string>
+    <string name="tab_text_2">分割</string>
+    <string name="tab_text_3">上传</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="poi">poi</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="overlay_view">Overlay View</string>
+</resources>
